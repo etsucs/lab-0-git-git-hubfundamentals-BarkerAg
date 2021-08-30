@@ -4,3 +4,38 @@ Repositories are created to store projects and keep progress in tact.
 Branching is a core concept in Git and how the 
 flow of GitHub is based on and hence why it is important that when working on a new branch you create it off the main when working on a fix. 
 I am still learning how to use GitHub. This is my first experience with it so it is interesting to take a deep dive into this product. 
+• Understanding GitHub and Github Classroom
+
+	
+
+NOTES FROM WORD DOCUMENT
+
+	Git
+Linus Torvalds created it in April of 2005
+Command line version control program
+Cross platform 
+Open source and free
+90% of companies use it today
+
+	Git Distributed version Control
+No need for a central server
+No need for internet
+No single failure point
++ Work independently and then merge work together
+	
+	Repository
+Used to organize a single project
+Contains folder, files images, etc and other data constructs. 
+	Main
+Branching is a core concept in Git and how the flow of GitHub is based on and hence why it is important that when working on a new branch you create it off the main when working on a fix. 
+
+	Pull Request 
+Initiate discussion about code. Aids in Help and in review of code. 
+	
+	Merge and Deploy 
+
+	GitHub
+A platform to host git code repos
+MMost popular githost
+Free
+Can collaborate on projects anywhere. 
